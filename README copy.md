@@ -1,6 +1,6 @@
 # 02 Advanced CSS: Portfolio
 
-Link to my website [here]( https://kevinumayam.github.io/Challenge-02/)
+Link to deployed site: [here]( https://kevinumayam.github.io/Challenge-02/)
 
 ## Your Task
 
